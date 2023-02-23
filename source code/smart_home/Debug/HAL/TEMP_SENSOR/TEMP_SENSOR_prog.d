@@ -1,0 +1,20 @@
+HAL/TEMP_SENSOR/TEMP_SENSOR_prog.o HAL/TEMP_SENSOR/TEMP_SENSOR_prog.o:  \
+ ../HAL/TEMP_SENSOR/TEMP_SENSOR_prog.c \
+  ../HAL/TEMP_SENSOR/../../LIBRARY/errorState.h \
+  ../HAL/TEMP_SENSOR/../../LIBRARY/stdTypes.h \
+  ../HAL/TEMP_SENSOR/../../MCAL/DIO/DIO_int.h \
+  ../HAL/TEMP_SENSOR/TEMP_SENSOR_priv.h \
+  ../HAL/TEMP_SENSOR/TEMP_SENSOR_conf.h \
+  ../HAL/TEMP_SENSOR/../../MCAL/ADC/ADC_int.h
+
+../HAL/TEMP_SENSOR/../../LIBRARY/errorState.h:
+
+../HAL/TEMP_SENSOR/../../LIBRARY/stdTypes.h:
+
+../HAL/TEMP_SENSOR/../../MCAL/DIO/DIO_int.h:
+
+../HAL/TEMP_SENSOR/TEMP_SENSOR_priv.h:
+
+../HAL/TEMP_SENSOR/TEMP_SENSOR_conf.h:
+
+../HAL/TEMP_SENSOR/../../MCAL/ADC/ADC_int.h:

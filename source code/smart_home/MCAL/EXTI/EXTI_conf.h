@@ -1,0 +1,23 @@
+/*
+ * EXTI_conf.h
+ *
+ *  Created on: Jan 30, 2023
+ *      Author: fathy
+ */
+
+#ifndef MCAL_EXTI_EXTI_CONF_H_
+#define MCAL_EXTI_EXTI_CONF_H_
+
+//			EVENT_TRIGGERED		-   		POLLING
+#define EXTI0_INT_MODE					EVENT_TRIGGERED
+#define EXTI1_INT_MODE					POLLING
+#define EXTI2_INT_MODE					POLLING
+
+//			LOW_LEVEL	-	ANY_CHANGE	-	RISING	-	FALLING
+#define EXTI0_SENSE_LEVEL				FALLING
+#define EXTI1_SENSE_LEVEL				LOW_LEVEL
+//			RISING	-	FALLING
+#define EXTI2_SENSE_LEVEL				RISING
+
+
+#endif /* MCAL_EXTI_EXTI_CONF_H_ */
