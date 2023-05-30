@@ -15,5 +15,7 @@ smart home project based on bluetooth
 .Lcd ( Lm01602A )  
 .Buzzer (Alarm) 
 .external EEPROM  
-. Relay 
-. Buttons 
+. Relay  
+. Buttons  
+
+![5555555555](https://github.com/faatthy/smart-home-project/assets/110846097/b41f74f4-0541-481c-848b-d6f81cd47e6e)
