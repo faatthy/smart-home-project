@@ -2,7 +2,7 @@
 • it is a popular project nowadays, it is a very comfortable application 
 for humans, it aims to convert any thing around to be controllable 
 and smart.
-# System Descreption
+# System Requirement
 ❑ Remoted controlled by mobile or lab top.  
 ❑ For emergency cases or controlling without mobile or lap-top 
 use LCD and Keypad “user mode only”.    
